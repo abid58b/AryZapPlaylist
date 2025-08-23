@@ -33,9 +33,11 @@ jobs:
       - name: Install Playwright browsers
         run: python -m playwright install --with-deps
 
-      # Step 5: Aapki Python script ko chalata hai
-      - name: Run scraper to generate aryzap.json
-        run: python https://abid58b.codeberg.page/cric/aryzap.py
+      # Step 5: Script ko URL se download karein aur phir chalayein
+      - name: Download and Run Scraper
+        run: |
+          curl -o aryzap.py https://abid58b.codeberg.page/cric/aryzap.py
+          python aryzap.py
 
       # Step 6: Agar aryzap.json file me koi change ho to usay commit aur push karta hai
       - name: Commit and push if JSON changed
