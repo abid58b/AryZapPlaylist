@@ -1,0 +1,14 @@
+{
+  "Author": "Abid",
+  "name": "Ary Zap",
+  "Last Update": "2025-08-23T13:31:25.228463",
+  "Total_Live_Events": 1,
+  "Live Events": [
+    {
+      "name": "Tamasha Uncut",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1754751221182.webp",
+      "event_url": "https://aryzap.com/live-event/v1/6897597bf333c02388d3f39e",
+      "m3u8_url": "https://asportsbk.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8"
+    }
+  ]
+}
