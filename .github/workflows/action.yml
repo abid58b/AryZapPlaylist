@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # ✅ Pakistani Proxy yahan add kiya gaya
-      HTTP_PROXY: socks4://203.130.4.210:5678
-      HTTPS_PROXY: socks4://203.130.4.210:5678
+      HTTP_PROXY: socks4://103.111.160.41:5678
+      HTTPS_PROXY: socks4://103.111.160.41:5678
     steps:
       - name: Code ko checkout karen
         # Repository ke code ko local machine par laata hai
