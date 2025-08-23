@@ -1,0 +1,45 @@
+# Is workflow ka naam
+name: ARYZap Scraper
+
+on:
+  # Is workflow ko manually GitHub ke Actions tab se chalane ki ijazat deta hai
+  workflow_dispatch:
+
+  # Is workflow ko har 20 minute baad schedule par chalata hai
+  schedule:
+    - cron: "*/20 * * * *"
+
+jobs:
+  scrape-and-commit:
+    # Yeh job Ubuntu ke latest version par chalegi
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Aapki repository ka code download karta hai
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Step 2: Python 3.11 ko set up karta hai
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Step 3: Python ki zaroori library (Playwright) install karta hai
+      - name: Install Python dependencies
+        run: pip install playwright
+
+      # Step 4: Playwright ke liye zaroori browsers install karta hai
+      - name: Install Playwright browsers
+        run: python -m playwright install --with-deps
+
+      # Step 5: Aapki Python script ko chalata hai
+      - name: Run scraper to generate aryzap.json
+        run: python https://abid58b.codeberg.page/cric/aryzap.py
+
+      # Step 6: Agar aryzap.json file me koi change ho to usay commit aur push karta hai
+      - name: Commit and push if JSON changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update aryzap.json with latest data"
+          file_pattern: aryzap.json
