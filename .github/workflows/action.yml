@@ -41,13 +41,17 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update JSON file via GitHub Action"
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/AryZapPlaylist.git
 
-      - name: Changes ko push karen
-        # Nayi commit ko repository par push karta hai
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main # Agar aapki branch ka naam 'main' nahi hai to usay badal den
+      - name: Commit and push changes
+        run: |
+          git add aryzap.json
+          git fetch origin main
+          git reset --soft origin/main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fetch latest data"
+            git push origin main
+          fi
 
