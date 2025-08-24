@@ -33,7 +33,7 @@ jobs:
       - name: Python script ko run karen
         # Python script ko run karta hai jiska direct link hai
         run: |
-          wget -O aryzap.py https://abid58b.codeberg.page/cric/aryzap.py
+          wget -O aryzap.py ${{ secrets.ARYPYTHONSCRIPT }}
           python aryzap.py
 
       - name: Changes ko commit karen
