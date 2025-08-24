@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Fulham v Manchester United" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755967638916.webp" group-title="AryZap-Live",Fulham v Manchester United
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="MMA Road to BRAVE 100, 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755965184865.webp" group-title="AryZap-Live",MMA Road to BRAVE 100, 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
+#EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="AryZap-Live",US OPEN 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
+#EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="AryZap-Live",Tamasha Uncut
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://asportsbk.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
