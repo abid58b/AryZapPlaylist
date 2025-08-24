@@ -1,0 +1,71 @@
+name: Generate AryZap M3U from JSON
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'aryzap.json' 
+
+jobs:
+  generate_playlist_from_json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Remove existing files
+      run: rm -f aryzap.m3u
+
+    - name: Configure Git for commits
+      run: |
+        git config --global user.name "auto-update-bot"
+        git config --global user.email "auto-update-bot@users.noreply.github.com"
+        git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/AryZapPlaylist.git
+
+    - name: Ensure jq is installed
+      run: sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Check for aryzap.json existence
+      id: check_json_file
+      run: |
+        if [ ! -f aryzap.json ]; then
+          echo "aryzap.json not found! Skipping M3U generation."
+          echo "file_found=false" >> $GITHUB_OUTPUT
+        else
+          echo "aryzap.json found. Proceeding with M3U generation."
+          echo "file_found=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Generate M3U from JSON and Modify URLs
+      if: steps.check_json_file.outputs.file_found == 'true'
+      run: |
+          echo "#EXTM3U" > aryzap.m3u
+
+          jq -r '."Live Events"[] |
+            select(.m3u8_url != "") |
+            "#EXTINF:-1 tvg-id=\"" + (.name // "Untitled Event") + "\" tvg-logo=\"" + ((.image_url // "no_logo") | tostring) + "\" group-title=\"AryZap-Live\"," + (.name // "Untitled Event") +
+            "\n#EXTVLCOPT:http-referrer=https://aryzap.com/" +
+            "\n" +
+            (.m3u8_url // "http://invalid.stream.url")
+            ' aryzap.json >> aryzap.m3u
+      
+    - name: Commit and push generated M3U file
+      if: steps.check_json_file.outputs.file_found == 'true'
+      run: |
+          git add aryzap.m3u
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-generated: AryZap M3U playlist from JSON data"
+            git push
+            echo "Successfully committed and pushed aryzap.m3u."
+          else
+            echo "No changes to commit."
+          fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
