@@ -1,20 +1,14 @@
 {
   "Author": "Abid",
-  "name": "AryZap Playlist",
-  "Last Update": "2025-08-25T01:10:40.695115",
-  "Total_Live_Events": 4,
+  "name": "Ary Zap",
+  "Last Update": "2025-08-25T15:50:55.044731",
+  "Total_Live_Events": 3,
   "Live Events": [
     {
       "name": "Fulham v Manchester United",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1755967638916.webp",
       "event_url": "https://aryzap.com/live-event/v1/68a9f097d9036a32b6f9d840",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
-    },
-    {
-      "name": "MMA Road to BRAVE 100, 2025",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1755965184865.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68a9e701d9036a32b6f9a053",
-      "m3u8_url": "https://stream.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
     },
     {
       "name": "US OPEN 2025",
