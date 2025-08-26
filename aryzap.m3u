@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="AryZap-Live",US OPEN 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
 #EXTINF:-1 tvg-id="Aston Villa v Crystal Palace" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756202594024.webp" group-title="AryZap-Live",Aston Villa v Crystal Palace
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/0185aab4ab4e1ea540e60615c5d4/main.m3u8
@@ -17,9 +20,6 @@ https://laligam.aryzap.com/v1/0183ea1d422d0b8ed5aa4d793452/018ad616dcc61ea5578a0
 #EXTINF:-1 tvg-id="Leeds United v Newcastle United" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756204259055.webp" group-title="AryZap-Live",Leeds United v Newcastle United
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
-#EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="AryZap-Live",US OPEN 2025
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
 #EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="AryZap-Live",Tamasha Uncut
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://asportsbk.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
