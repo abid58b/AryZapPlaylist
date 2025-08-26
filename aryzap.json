@@ -1,9 +1,15 @@
 {
   "Author": "Abid",
   "name": "Ary Zap",
-  "Last Update": "2025-08-26T15:45:03.398451",
+  "Last Update": "2025-08-26T19:22:23.222046",
   "Total_Live_Events": 8,
   "Live Events": [
+    {
+      "name": "US OPEN 2025",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1755966411732.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68a9ebccd9036a32b6f9b60f",
+      "m3u8_url": "https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8"
+    },
     {
       "name": "Aston Villa v Crystal Palace",
       "image_url": "https://images.aryzap.com/big/1920-x-1080_1756202594024.webp",
@@ -39,12 +45,6 @@
       "image_url": "https://images.aryzap.com/big/1920-x-1080_1756204259055.webp",
       "event_url": "https://aryzap.com/live-event/v1/68ad8ce4e791b87b7677befb",
       "m3u8_url": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8"
-    },
-    {
-      "name": "US OPEN 2025",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1755966411732.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68a9ebccd9036a32b6f9b60f",
-      "m3u8_url": "https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8"
     },
     {
       "name": "Tamasha Uncut",
