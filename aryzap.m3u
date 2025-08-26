@@ -1,7 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Fulham v Manchester United" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755967638916.webp" group-title="AryZap-Live",Fulham v Manchester United
+#EXTINF:-1 tvg-id="Aston Villa v Crystal Palace" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756202594024.webp" group-title="AryZap-Live",Aston Villa v Crystal Palace
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/0185aab4ab4e1ea540e60615c5d4/main.m3u8
+#EXTINF:-1 tvg-id="Chelsea v Fulham" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756202169712.webp" group-title="AryZap-Live",Chelsea v Fulham
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://pkmobile.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
+#EXTINF:-1 tvg-id="Tottenham Hotspur v AFC Bournemouth" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756202280090.webp" group-title="AryZap-Live",Tottenham Hotspur v AFC Bournemouth
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Wolverhampton Wanderers v Everton" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756203607309.webp" group-title="AryZap-Live",Wolverhampton Wanderers v Everton
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
+#EXTINF:-1 tvg-id="Sunderland v Brentford" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756204111109.webp" group-title="AryZap-Live",Sunderland v Brentford
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://laligam.aryzap.com/v1/0183ea1d422d0b8ed5aa4d793452/018ad616dcc61ea5578a0267ba85/main.m3u8
+#EXTINF:-1 tvg-id="Leeds United v Newcastle United" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756204259055.webp" group-title="AryZap-Live",Leeds United v Newcastle United
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
 #EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="AryZap-Live",US OPEN 2025
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
