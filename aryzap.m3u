@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="AryZap-Live",US OPEN 2025
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
-#EXTINF:-1 tvg-id="Chelsea v Fulham" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756220662537.webp" group-title="AryZap-Live",Chelsea v Fulham
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://pkmobile.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
 #EXTINF:-1 tvg-id="Tottenham Hotspur v AFC Bournemouth" tvg-logo="https://images.aryzap.com/big/1920-x-1080_1756202280090.webp" group-title="AryZap-Live",Tottenham Hotspur v AFC Bournemouth
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
