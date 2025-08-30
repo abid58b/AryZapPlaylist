@@ -1,20 +1,14 @@
 {
   "Author": "Abid",
   "name": "Ary Zap",
-  "Last Update": "2025-08-30T17:25:31.156971",
-  "Total_Live_Events": 9,
+  "Last Update": "2025-08-30T19:46:32.827888",
+  "Total_Live_Events": 8,
   "Live Events": [
     {
       "name": "US OPEN 2025",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1755966411732.webp",
       "event_url": "https://aryzap.com/live-event/v1/68a9ebccd9036a32b6f9b60f",
       "m3u8_url": "https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8"
-    },
-    {
-      "name": "Chelsea v Fulham",
-      "image_url": "https://images.aryzap.com/big/1920-x-1080_1756220662537.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68ad84bae791b87b7677a505",
-      "m3u8_url": "https://pkmobile.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8"
     },
     {
       "name": "Tottenham Hotspur v AFC Bournemouth",
