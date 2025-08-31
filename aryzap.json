@@ -1,38 +1,14 @@
 {
   "Author": "Abid",
   "name": "Ary Zap",
-  "Last Update": "2025-08-30T19:46:32.827888",
-  "Total_Live_Events": 8,
+  "Last Update": "2025-08-31T14:25:09.962627",
+  "Total_Live_Events": 4,
   "Live Events": [
     {
       "name": "US OPEN 2025",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1755966411732.webp",
       "event_url": "https://aryzap.com/live-event/v1/68a9ebccd9036a32b6f9b60f",
       "m3u8_url": "https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8"
-    },
-    {
-      "name": "Tottenham Hotspur v AFC Bournemouth",
-      "image_url": "https://images.aryzap.com/big/1920-x-1080_1756202280090.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68ad8529e791b87b7677a733",
-      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
-    },
-    {
-      "name": "Wolverhampton Wanderers v Everton",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1756495436286.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68ad8a58e791b87b7677b3b7",
-      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
-    },
-    {
-      "name": "Sunderland v Brentford",
-      "image_url": "https://images.aryzap.com/big/1920-x-1080_1756220769641.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68ad8c50e791b87b7677bcb8",
-      "m3u8_url": "https://laligam.aryzap.com/v1/0183ea1d422d0b8ed5aa4d793452/018ad616dcc61ea5578a0267ba85/main.m3u8"
-    },
-    {
-      "name": "Leeds United v Newcastle United",
-      "image_url": "https://images.aryzap.com/big/1920-x-1080_1756220804404.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68ad8ce4e791b87b7677befb",
-      "m3u8_url": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8"
     },
     {
       "name": "Notthingam Forest v West Ham United",
