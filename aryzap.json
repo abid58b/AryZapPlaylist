@@ -1,26 +1,14 @@
 {
   "Author": "Abid",
   "name": "Ary Zap",
-  "Last Update": "2025-08-31T19:59:55.469334",
-  "Total_Live_Events": 4,
+  "Last Update": "2025-09-01T19:36:31.412683",
+  "Total_Live_Events": 2,
   "Live Events": [
     {
       "name": "US OPEN 2025",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1755966411732.webp",
       "event_url": "https://aryzap.com/live-event/v1/68a9ebccd9036a32b6f9b60f",
       "m3u8_url": "https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8"
-    },
-    {
-      "name": "Notthingam Forest v West Ham United",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1756494883405.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68b1fc24b4845d4688634c6e",
-      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
-    },
-    {
-      "name": "Aston Villa v Crystal Palace",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1756492521353.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68ad8663e791b87b7677abbe",
-      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/0185aab4ab4e1ea540e60615c5d4/main.m3u8"
     },
     {
       "name": "Tamasha Uncut",
