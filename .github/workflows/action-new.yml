@@ -49,7 +49,7 @@ jobs:
 
           jq -r '."Live Events"[] |
             select(.m3u8_url != "") |
-            "#EXTINF:-1 tvg-id=\"" + (.name // "Untitled Event") + "\" tvg-logo=\"" + ((.image_url // "no_logo") | tostring) + "\" group-title=\"AryZap-Live\"," + (.name // "Untitled Event") +
+            "#EXTINF:-1 tvg-id=\"" + (.name // "Untitled Event") + "\" tvg-logo=\"" + ((.image_url // "no_logo") | tostring) + "\" group-title=\"Live\"," + (.name // "Untitled Event") +
             "\n#EXTVLCOPT:http-referrer=https://aryzap.com/" +
             "\n" +
             (.m3u8_url // "http://invalid.stream.url")
