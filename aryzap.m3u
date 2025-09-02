@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="AryZap-Live",US OPEN 2025
+#EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="Live",US OPEN 2025
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
-#EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="AryZap-Live",Tamasha Uncut
+#EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="Live",Tamasha Uncut
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://asportsbk.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
