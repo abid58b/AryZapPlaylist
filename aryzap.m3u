@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="US OPEN 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1755966411732.webp" group-title="Live",US OPEN 2025
+#EXTINF:-1 tvg-id="AFC Bournemouth v Brighton" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757578503242.webp" group-title="Live",AFC Bournemouth v Brighton
 #EXTVLCOPT:http-referrer=https://aryzap.com/
-https://stream.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+#EXTINF:-1 tvg-id="Everton v Aston Villa" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757578733810.webp" group-title="Live",Everton v Aston Villa
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/0185aabff4e61ea5578a03c0bfdb/main.m3u8
+#EXTINF:-1 tvg-id="Fulham v Leeds United" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757578840151.webp" group-title="Live",Fulham v Leeds United
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Crystal Palace v Sunderland" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757578970735.webp" group-title="Live",Crystal Palace v Sunderland
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
+#EXTINF:-1 tvg-id="Newcastle United v Wolves" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757579213798.webp" group-title="Live",Newcastle United v Wolves
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
+#EXTINF:-1 tvg-id="Burnley v Liverpool" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757579351552.webp" group-title="Live",Burnley v Liverpool
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+#EXTINF:-1 tvg-id="Man City v Man Utd" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757579461761.webp" group-title="Live",Man City v Man Utd
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/0185aabff4e61ea5578a03c0bfdb/main.m3u8
 #EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="Live",Tamasha Uncut
 #EXTVLCOPT:http-referrer=https://aryzap.com/
-https://asportsbk.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
+https://arynewsusa.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
