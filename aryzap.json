@@ -1,39 +1,10 @@
 {
   "Author": "Abid",
-  "name": "Ary Zap",
-  "Last Update": "2025-09-13T17:39:02.154860",
-  "Total_Live_Events": 8,
+  "Name": "AryZap",
+  "For Update": "DM me on Telegram @MAbidOfficial",
+  "Last Update": "2025-09-14T18:15:56.611484",
+  "Total_Live_Events": 3,
   "Live Events": [
-    {
-      "name": "AFC Bournemouth v Brighton",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1757578503242.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68c28508e37cb59047717aba",
-      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
-    },
-    {
-      "name": "Everton v Aston Villa",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1757578733810.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68c285efe37cb59047717b19",
-      "m3u8_url": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/0185aabff4e61ea5578a03c0bfdb/main.m3u8"
-    },
-    {
-      "name": "Fulham v Leeds United",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1757578840151.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68c28659e37cb59047717d4d",
-      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
-    },
-    {
-      "name": "Crystal Palace v Sunderland",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1757578970735.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68c286dbe37cb59047717d4f",
-      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
-    },
-    {
-      "name": "Newcastle United v Wolves",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1757579213798.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68c287cee37cb59047717f87",
-      "m3u8_url": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8"
-    },
     {
       "name": "Burnley v Liverpool",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1757579351552.webp",
