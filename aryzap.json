@@ -2,21 +2,9 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-09-14T18:15:56.611484",
-  "Total_Live_Events": 3,
+  "Last Update": "2025-09-15T13:03:48.027566",
+  "Total_Live_Events": 1,
   "Live Events": [
-    {
-      "name": "Burnley v Liverpool",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1757579351552.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68c28858e37cb590477181bf",
-      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
-    },
-    {
-      "name": "Man City v Man Utd",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1757579461761.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68c288c7e37cb590477181c1",
-      "m3u8_url": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/0185aabff4e61ea5578a03c0bfdb/main.m3u8"
-    },
     {
       "name": "Tamasha Uncut",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1754751221182.webp",
