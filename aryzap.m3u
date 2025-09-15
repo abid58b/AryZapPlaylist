@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Burnley v Liverpool" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757579351552.webp" group-title="Live",Burnley v Liverpool
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
-#EXTINF:-1 tvg-id="Man City v Man Utd" tvg-logo="https://images.aryzap.com/big/1280-x-720_1757579461761.webp" group-title="Live",Man City v Man Utd
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/0185aabff4e61ea5578a03c0bfdb/main.m3u8
 #EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="Live",Tamasha Uncut
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://arynewsusa.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
