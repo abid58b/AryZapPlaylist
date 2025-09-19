@@ -2,9 +2,51 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-09-17T17:46:39.140255",
-  "Total_Live_Events": 1,
+  "Last Update": "2025-09-19T17:18:31.587402",
+  "Total_Live_Events": 8,
   "Live Events": [
+    {
+      "name": "Liverpool v Everton",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1758279285305.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68cd367ebfa95babdffa254e",
+      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
+    },
+    {
+      "name": "Burnley v Nott'm Forest",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1758279451812.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68cd3727db20a2f0bfa85931",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "West Ham United v Crystal Palace",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1758279596654.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68cd37b6db20a2f0bfa86319",
+      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
+    },
+    {
+      "name": "Wolves v Leeds United",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1758279766218.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68cd385fbfa95babdffa4cef",
+      "m3u8_url": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8"
+    },
+    {
+      "name": "Fulham v Brentford",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1758280147235.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68cd39dedb20a2f0bfa88a92",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "Sunderland v Aston Villa",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1758280326556.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68cd3a8fdb20a2f0bfa897ba",
+      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
+    },
+    {
+      "name": "AFC Bournemouth v Newcastle United",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1758283695263.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68cd47bddb20a2f0bfa991dc",
+      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
+    },
     {
       "name": "Tamasha Uncut",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1754751221182.webp",
