@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Liverpool v Everton" tvg-logo="https://images.aryzap.com/big/1280-x-720_1758279285305.webp" group-title="Live",Liverpool v Everton
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
-#EXTINF:-1 tvg-id="Burnley v Nott'm Forest" tvg-logo="https://images.aryzap.com/big/1280-x-720_1758279451812.webp" group-title="Live",Burnley v Nott'm Forest
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
-#EXTINF:-1 tvg-id="West Ham United v Crystal Palace" tvg-logo="https://images.aryzap.com/big/1280-x-720_1758279596654.webp" group-title="Live",West Ham United v Crystal Palace
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
-#EXTINF:-1 tvg-id="Wolves v Leeds United" tvg-logo="https://images.aryzap.com/big/1280-x-720_1758279766218.webp" group-title="Live",Wolves v Leeds United
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
-#EXTINF:-1 tvg-id="Fulham v Brentford" tvg-logo="https://images.aryzap.com/big/1280-x-720_1758280147235.webp" group-title="Live",Fulham v Brentford
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
 #EXTINF:-1 tvg-id="Sunderland v Aston Villa" tvg-logo="https://images.aryzap.com/big/1280-x-720_1758280326556.webp" group-title="Live",Sunderland v Aston Villa
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
