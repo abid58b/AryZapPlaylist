@@ -2,21 +2,9 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-09-22T12:23:36.632111",
-  "Total_Live_Events": 3,
+  "Last Update": "2025-09-22T18:42:48.645483",
+  "Total_Live_Events": 1,
   "Live Events": [
-    {
-      "name": "Sunderland v Aston Villa",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1758280326556.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68cd3a8fdb20a2f0bfa897ba",
-      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
-    },
-    {
-      "name": "AFC Bournemouth v Newcastle United",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1758283695263.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68cd47bddb20a2f0bfa991dc",
-      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
-    },
     {
       "name": "Tamasha Uncut",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1754751221182.webp",
