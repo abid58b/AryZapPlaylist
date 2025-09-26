@@ -2,9 +2,39 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-09-26T12:00:18.995558",
-  "Total_Live_Events": 1,
+  "Last Update": "2025-09-26T15:00:37.559770",
+  "Total_Live_Events": 6,
   "Live Events": [
+    {
+      "name": "Leeds United v AFC Bournemouth",
+      "image_url": "https://images.aryzap.com/big/1280_x_720_1758879309258.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68d65e4fefcb74465f5865f6",
+      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
+    },
+    {
+      "name": "Aston Villa v Fulham",
+      "image_url": "https://images.aryzap.com/big/1280_x_720_1758879404755.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68d65eaf0ae550cccb806fc8",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "Nott'm Forest v Sunderland",
+      "image_url": "https://images.aryzap.com/big/1280_x_720_1758879487409.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68d65f02efcb74465f58749d",
+      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
+    },
+    {
+      "name": "Spurs v Wolves",
+      "image_url": "https://images.aryzap.com/big/1280_x_720_1758879554106.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68d65f45efcb74465f5879fd",
+      "m3u8_url": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8"
+    },
+    {
+      "name": "Everton v West Ham United",
+      "image_url": "https://images.aryzap.com/big/1280_x_720_1758879625094.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68d65f8b0ae550cccb8086af",
+      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
+    },
     {
       "name": "Tamasha Uncut",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1754751221182.webp",
