@@ -1,14 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Leeds United v AFC Bournemouth" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758879309258.webp" group-title="Live",Leeds United v AFC Bournemouth
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
-#EXTINF:-1 tvg-id="Nott'm Forest v Sunderland" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758879487409.webp" group-title="Live",Nott'm Forest v Sunderland
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
-#EXTINF:-1 tvg-id="Spurs v Wolves" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758891021813.webp" group-title="Live",Spurs v Wolves
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
-#EXTINF:-1 tvg-id="Aston Villa v Fulham" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758879404755.webp" group-title="Live",Aston Villa v Fulham
+#EXTINF:-1 tvg-id="Aston Villa v Fulham" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758991430053.webp" group-title="Live",Aston Villa v Fulham
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
 #EXTINF:-1 tvg-id="Everton v West Ham United" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758879625094.webp" group-title="Live",Everton v West Ham United
