@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Aston Villa v Fulham" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758991430053.webp" group-title="Live",Aston Villa v Fulham
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
 #EXTINF:-1 tvg-id="Everton v West Ham United" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758879625094.webp" group-title="Live",Everton v West Ham United
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
