@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="National Kabaddi Championship 2025" tvg-logo="https://images.aryzap.com/big/1280-x-720_1759244066350.webp" group-title="Live",National Kabaddi Championship 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
 #EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="Live",Tamasha Uncut
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://arynewsusa.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
