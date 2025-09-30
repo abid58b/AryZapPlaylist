@@ -2,9 +2,15 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-09-30T18:48:40.343559",
-  "Total_Live_Events": 1,
+  "Last Update": "2025-09-30T22:55:51.463432",
+  "Total_Live_Events": 2,
   "Live Events": [
+    {
+      "name": "National Kabaddi Championship 2025",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1759244066350.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68dbef24efcb74465fed2f98",
+      "m3u8_url": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8"
+    },
     {
       "name": "Tamasha Uncut",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1754751221182.webp",
