@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Everton v West Ham United" tvg-logo="https://images.aryzap.com/big/1280_x_720_1758879625094.webp" group-title="Live",Everton v West Ham United
-#EXTVLCOPT:http-referrer=https://aryzap.com/
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
 #EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="Live",Tamasha Uncut
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://arynewsusa.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
