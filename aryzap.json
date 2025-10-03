@@ -2,14 +2,14 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-10-03T15:00:41.893979",
+  "Last Update": "2025-10-03T18:00:24.939851",
   "Total_Live_Events": 2,
   "Live Events": [
     {
-      "name": "United Arab Emirates T20I Tri-Series 2025",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1756472217436.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68b1a3a6b4845d468861e61e",
-      "m3u8_url": "https://stream4.aryzap.com/v1/01889b9a0cb31ea50695044d4f18/01889b9aa2351ea50695044d4f1b/main.m3u8"
+      "name": "National Kabaddi Championship 2025",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1759244066350.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68dbef24efcb74465fed2f98",
+      "m3u8_url": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8"
     },
     {
       "name": "Tamasha Uncut",
