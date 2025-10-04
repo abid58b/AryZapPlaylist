@@ -2,14 +2,20 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-10-03T18:00:24.939851",
-  "Total_Live_Events": 2,
+  "Last Update": "2025-10-04T12:00:25.410168",
+  "Total_Live_Events": 3,
   "Live Events": [
     {
       "name": "National Kabaddi Championship 2025",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1759244066350.webp",
       "event_url": "https://aryzap.com/live-event/v1/68dbef24efcb74465fed2f98",
       "m3u8_url": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8"
+    },
+    {
+      "name": "AFC Bournemouth vs Fulham",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1759503471674.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68dfe472e278bea7200cb35d",
+      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
     },
     {
       "name": "Tamasha Uncut",
