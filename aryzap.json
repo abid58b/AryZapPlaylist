@@ -2,20 +2,38 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-10-04T12:00:25.410168",
-  "Total_Live_Events": 3,
+  "Last Update": "2025-10-05T17:28:04.546930",
+  "Total_Live_Events": 6,
   "Live Events": [
+    {
+      "name": "Aston Villa vs Burnley",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1759662759311.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68e252abe278bea720cce5c5",
+      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
+    },
+    {
+      "name": "Everton vs Crystal Palace",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1759662932734.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68e2535897d59c37575b7c48",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "Newcastle United vs Nottingham Forest",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1759663102893.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68e2540410b819d31d8468b6",
+      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
+    },
+    {
+      "name": "Wolverhampton Wanderers vs Brighton",
+      "image_url": "https://images.aryzap.com/big/1280-x-720_1759663240365.webp",
+      "event_url": "https://aryzap.com/live-event/v1/68e2548b97d59c37575bb0bd",
+      "m3u8_url": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8"
+    },
     {
       "name": "National Kabaddi Championship 2025",
       "image_url": "https://images.aryzap.com/big/1280-x-720_1759244066350.webp",
       "event_url": "https://aryzap.com/live-event/v1/68dbef24efcb74465fed2f98",
       "m3u8_url": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8"
-    },
-    {
-      "name": "AFC Bournemouth vs Fulham",
-      "image_url": "https://images.aryzap.com/big/1280-x-720_1759503471674.webp",
-      "event_url": "https://aryzap.com/live-event/v1/68dfe472e278bea7200cb35d",
-      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
     },
     {
       "name": "Tamasha Uncut",
