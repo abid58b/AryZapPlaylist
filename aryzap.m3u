@@ -1,4 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tamasha Uncut" tvg-logo="https://images.aryzap.com/big/1280-x-720_1754751221182.webp" group-title="Live",Tamasha Uncut
+#EXTINF:-1 tvg-id="PRO - Legends Arena | Asia Pacific Padel Tour 2025" tvg-logo="https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823555638.webp" group-title="Live",PRO - Legends Arena | Asia Pacific Padel Tour 2025
 #EXTVLCOPT:http-referrer=https://aryzap.com/
-https://arynewsusa.aryzap.com/v1/01876faf7f231ea5578a0463159c/01876fafb6801ea5578a0463159f/main.m3u8
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Feed#2 - Legends Arena | Asia Pacific Padel Tour 2025" tvg-logo="https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823747042.webp" group-title="Live",Feed#2 - Legends Arena | Asia Pacific Padel Tour 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+#EXTINF:-1 tvg-id="Feed#3 - Legends Arena | Asia Pacific Padel Tour 2025" tvg-logo="https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823858739.webp" group-title="Live",Feed#3 - Legends Arena | Asia Pacific Padel Tour 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
+#EXTINF:-1 tvg-id="Feed#4 - Legends Arena | Asia Pacific Padel Tour 2025" tvg-logo="https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823961287.webp" group-title="Live",Feed#4 - Legends Arena | Asia Pacific Padel Tour 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
+#EXTINF:-1 tvg-id="Feed#5 - Legends Arena | Asia Pacific Padel Tour 2025" tvg-logo="https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761824106729.webp" group-title="Live",Feed#5 - Legends Arena | Asia Pacific Padel Tour 2025
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile2.aryzap.com/v1/0191c701fa7c1ea50695f2383ee75/019966bda10b15fc600b29fe09db78/main.m3u8
