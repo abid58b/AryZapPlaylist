@@ -2,38 +2,26 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-11-03T22:28:54.987054",
-  "Total_Live_Events": 5,
+  "Last Update": "2025-11-18T23:07:12.556371",
+  "Total_Live_Events": 3,
   "Live Events": [
     {
-      "name": "PRO - Legends Arena | Asia Pacific Padel Tour 2025",
-      "image_url": "https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823555638.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69034b45f6e42f9417a0fd6a",
+      "name": "ASPIN STALLIONS vs  NORTHERN WARRIORS- 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763465675710.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691c59ceecd31b0ec22e9309",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "Feed#2 - Legends Arena | Asia Pacific Padel Tour 2025",
-      "image_url": "https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823747042.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69034c05e24c138ff9fc7eb4",
-      "m3u8_url": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8"
+      "name": "ROYAL CHAMPS vs  VISTA RIDERS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763465721949.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691c59fc731e7d8c20665f0d",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "Feed#3 - Legends Arena | Asia Pacific Padel Tour 2025",
-      "image_url": "https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823858739.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69034c74e24c138ff9fc8273",
-      "m3u8_url": "https://asportsbk.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8"
-    },
-    {
-      "name": "Feed#4 - Legends Arena | Asia Pacific Padel Tour 2025",
-      "image_url": "https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761823961287.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69034cdcf6e42f9417a101df",
-      "m3u8_url": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8"
-    },
-    {
-      "name": "Feed#5 - Legends Arena | Asia Pacific Padel Tour 2025",
-      "image_url": "https://images.aryzap.com/big/Big_Cover_1280x720_With_Logo_1761824106729.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69034d6de24c138ff9fc8746",
-      "m3u8_url": "https://iccmobile2.aryzap.com/v1/0191c701fa7c1ea50695f2383ee75/019966bda10b15fc600b29fe09db78/main.m3u8"
+      "name": "AJMAN TITANS vs  QUETTA QAVALRY - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763465763169.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691c5a25731e7d8c20665f83",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
 }
