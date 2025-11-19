@@ -2,8 +2,8 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-11-19T16:44:17.779721",
-  "Total_Live_Events": 3,
+  "Last Update": "2025-11-19T18:00:39.732213",
+  "Total_Live_Events": 6,
   "Live Events": [
     {
       "name": "ASPIN STALLIONS vs  NORTHERN WARRIORS- 2025 ABU DHABI T10 TOURNAMENT",
@@ -21,6 +21,24 @@
       "name": "AJMAN TITANS vs  QUETTA QAVALRY - 2025 ABU DHABI T10 TOURNAMENT",
       "image_url": "https://images.aryzap.com/big/1920_x_1080_1763465763169.webp",
       "event_url": "https://aryzap.com/live-event/v1/691c5a25731e7d8c20665f83",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "ROYAL CHAMPS vs  DECCAN GLADIATORS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763554537253.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691db4ec731e7d8c206fc840",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "DELHI BULLS vs  VISTA RIDERS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763554590341.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691db521731e7d8c206fca89",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "ASPIN STALLIONS vs  AJMAN TITANS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763554635073.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691db54decd31b0ec2381095",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
