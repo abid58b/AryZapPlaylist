@@ -2,8 +2,8 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-11-20T15:33:34.330609",
-  "Total_Live_Events": 3,
+  "Last Update": "2025-11-20T18:00:38.984583",
+  "Total_Live_Events": 6,
   "Live Events": [
     {
       "name": "ROYAL CHAMPS vs  DECCAN GLADIATORS - 2025 ABU DHABI T10 TOURNAMENT",
@@ -19,8 +19,26 @@
     },
     {
       "name": "ASPIN STALLIONS vs  AJMAN TITANS - 2025 ABU DHABI T10 TOURNAMENT",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763554635073.webp",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1763638698786.webp",
       "event_url": "https://aryzap.com/live-event/v1/691db54decd31b0ec2381095",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "DECCAN GLADIATORS vs  QUETTA QAVALRY - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1763638499038.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691efce4ecd31b0ec240f9e6",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "NORTHERN WARRIORS vs  AJMANTITANS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763638558868.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691efd20731e7d8c2078d263",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "DELHI BULLS vs  ROYAL CHAMPS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763638617327.webp",
+      "event_url": "https://aryzap.com/live-event/v1/691efd5b731e7d8c2078d414",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
