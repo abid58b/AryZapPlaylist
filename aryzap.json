@@ -2,25 +2,25 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-11-26T14:54:38.298061",
+  "Last Update": "2025-11-27T15:48:56.981116",
   "Total_Live_Events": 3,
   "Live Events": [
     {
-      "name": "DELHI BULLS vs NORTHERN WARRIORS- 2025 ABU DHABI T10 TOURNAMENT",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763993398749.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69246739731e7d8c20abad4a",
+      "name": "VISTA RIDERS vs QUETTA QAVALRY- 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764167286328.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69270e78731e7d8c20bfd18d",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "DECCAN GLADIATORS vs AJMAN TITANS- 2025 ABU DHABI T10 TOURNAMENT",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763993445535.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69246767731e7d8c20abafc4",
+      "name": "DELHI BULLS vs ASPIN STALLIONS- 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764167331252.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69270ea4731e7d8c20bfd4c9",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "ROYAL CHAMPS vs ASPIN STALLIONS- 2025 ABU DHABI T10 TOURNAMENT",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1763993493251.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69246797731e7d8c20abb2b6",
+      "name": "NORTHERN WARRIORS vs ROYAL CHAMPS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764167372838.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69270ece731e7d8c20bfd5d2",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
