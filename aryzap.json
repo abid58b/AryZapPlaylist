@@ -2,25 +2,25 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-11-27T15:48:56.981116",
+  "Last Update": "2025-11-28T16:20:05.829260",
   "Total_Live_Events": 3,
   "Live Events": [
     {
-      "name": "VISTA RIDERS vs QUETTA QAVALRY- 2025 ABU DHABI T10 TOURNAMENT",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764167286328.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69270e78731e7d8c20bfd18d",
+      "name": "AJMAN TITANS vs DELHI BULLS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764320309068.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69296436ecd31b0ec29956d0",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "DELHI BULLS vs ASPIN STALLIONS- 2025 ABU DHABI T10 TOURNAMENT",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764167331252.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69270ea4731e7d8c20bfd4c9",
+      "name": "QUETTA QAVALRY vs ROYAL CHAMPS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764320356113.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69296465ecd31b0ec29956e7",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "NORTHERN WARRIORS vs ROYAL CHAMPS - 2025 ABU DHABI T10 TOURNAMENT",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764167372838.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69270ece731e7d8c20bfd5d2",
+      "name": "VISTA RIDERS vs DECCAN GLADIATORS - 2025 ABU DHABI T10 TOURNAMENT",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1764320404580.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69296496ecd31b0ec299593a",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
