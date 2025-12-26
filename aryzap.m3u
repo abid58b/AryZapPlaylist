@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="South Africa Women vs Ireland Women Series 2025" tvg-logo="https://images.aryzap.com/big/Big-Cover-1280x720-With-Logo_1765550593995.webp" group-title="Live",South Africa Women vs Ireland Women Series 2025
+#EXTINF:-1 tvg-id="Sylhet Strikers vs Rajshahi Warriors - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1766680572379.webp" group-title="Live",Sylhet Strikers vs Rajshahi Warriors - Bangladesh Premier League 2025-26
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Noakhali Express vs Chattogram Challengers - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1766680655752.webp" group-title="Live",Noakhali Express vs Chattogram Challengers - Bangladesh Premier League 2025-26
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
