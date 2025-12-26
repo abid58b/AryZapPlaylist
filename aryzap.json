@@ -2,13 +2,19 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-12-14T10:16:05.073137",
-  "Total_Live_Events": 1,
+  "Last Update": "2025-12-26T15:16:47.160027",
+  "Total_Live_Events": 2,
   "Live Events": [
     {
-      "name": "South Africa Women vs Ireland Women Series 2025",
-      "image_url": "https://images.aryzap.com/big/Big-Cover-1280x720-With-Logo_1765550593995.webp",
-      "event_url": "https://aryzap.com/live-event/v1/693c2a04731e7d8c209dce19",
+      "name": "Sylhet Strikers vs Rajshahi Warriors - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1766680572379.webp",
+      "event_url": "https://aryzap.com/live-event/v1/694d6800ecd31b0ec24635ce",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "Noakhali Express vs Chattogram Challengers - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1766680655752.webp",
+      "event_url": "https://aryzap.com/live-event/v1/694d6854ecd31b0ec2463733",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
