@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sylhet Strikers vs Rajshahi Warriors - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1766680572379.webp" group-title="Live",Sylhet Strikers vs Rajshahi Warriors - Bangladesh Premier League 2025-26
+#EXTINF:-1 tvg-id="Sylhet Titans vs Dhaka Capitals - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1767014591545.webp" group-title="Live",Sylhet Titans vs Dhaka Capitals - Bangladesh Premier League 2025-26
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
-#EXTINF:-1 tvg-id="Noakhali Express vs Chattogram Challengers - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1766680655752.webp" group-title="Live",Noakhali Express vs Chattogram Challengers - Bangladesh Premier League 2025-26
+#EXTINF:-1 tvg-id="Rangpur Riders vs Rajshahi Warriors - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1767014654635.webp" group-title="Live",Rangpur Riders vs Rajshahi Warriors - Bangladesh Premier League 2025-26
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Dhaka Capitals vs Chattogram Royals - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1767014726955.webp" group-title="Live",Dhaka Capitals vs Chattogram Royals - Bangladesh Premier League 2025-26
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Sylhet Titans vs Rangpur Riders - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1767014803798.webp" group-title="Live",Sylhet Titans vs Rangpur Riders - Bangladesh Premier League 2025-26
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
