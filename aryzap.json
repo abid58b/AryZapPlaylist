@@ -2,31 +2,25 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2025-12-31T17:59:29.021027",
-  "Total_Live_Events": 4,
+  "Last Update": "2026-01-05T15:01:52.166365",
+  "Total_Live_Events": 3,
   "Live Events": [
     {
-      "name": "Sylhet Titans vs Dhaka Capitals - Bangladesh Premier League 2025-26",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1767014591545.webp",
-      "event_url": "https://aryzap.com/live-event/v1/695280c3ecd31b0ec289cefe",
+      "name": "Noakhali Express vs Shylhet Titans - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767348287937.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69579844731e7d8c20ec4a81",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "Rangpur Riders vs Rajshahi Warriors - Bangladesh Premier League 2025-26",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1767014654635.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69528102ecd31b0ec289d1d6",
+      "name": "Chattogram Royals vs Rangpur Riders - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767348341069.webp",
+      "event_url": "https://aryzap.com/live-event/v1/69579879ecd31b0ec2b5ce65",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "Dhaka Capitals vs Chattogram Royals - Bangladesh Premier League 2025-26",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1767014726955.webp",
-      "event_url": "https://aryzap.com/live-event/v1/6952814becd31b0ec289d476",
-      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
-    },
-    {
-      "name": "Sylhet Titans vs Rangpur Riders - Bangladesh Premier League 2025-26",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1767014803798.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69528197731e7d8c20c0c381",
+      "name": "Dhaka Capitals vs Noakhali Express - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767348399778.webp",
+      "event_url": "https://aryzap.com/live-event/v1/695798b3ecd31b0ec2b5cffa",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
