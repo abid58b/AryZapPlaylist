@@ -2,25 +2,31 @@
   "Author": "Abid",
   "Name": "AryZap",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "Last Update": "2026-01-05T15:01:52.166365",
-  "Total_Live_Events": 3,
+  "Last Update": "2026-01-08T16:18:10.020488",
+  "Total_Live_Events": 4,
   "Live Events": [
     {
-      "name": "Noakhali Express vs Shylhet Titans - Bangladesh Premier League 2025-26",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767348287937.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69579844731e7d8c20ec4a81",
+      "name": "Noakhali Express vs Rajshahi Warriors - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767783136358.webp",
+      "event_url": "https://aryzap.com/live-event/v1/695e3ae3731e7d8c2036f2f7",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "Chattogram Royals vs Rangpur Riders - Bangladesh Premier League 2025-26",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767348341069.webp",
-      "event_url": "https://aryzap.com/live-event/v1/69579879ecd31b0ec2b5ce65",
+      "name": "Dhaka Capitals vs Sylhet Titans - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767783216907.webp",
+      "event_url": "https://aryzap.com/live-event/v1/695e3b34731e7d8c2036f5c3",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     },
     {
-      "name": "Dhaka Capitals vs Noakhali Express - Bangladesh Premier League 2025-26",
-      "image_url": "https://images.aryzap.com/big/1920_x_1080_1_1767348399778.webp",
-      "event_url": "https://aryzap.com/live-event/v1/695798b3ecd31b0ec2b5cffa",
+      "name": "Rajshahi Warriors vs Chattogram Royals - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1767783921355.webp",
+      "event_url": "https://aryzap.com/live-event/v1/695e3df5ecd31b0ec2019f6c",
+      "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
+    },
+    {
+      "name": "Noakhali Express vs Rangpur Riders - Bangladesh Premier League 2025-26",
+      "image_url": "https://images.aryzap.com/big/1920_x_1080_1767783975433.webp",
+      "event_url": "https://aryzap.com/live-event/v1/695e3e2a731e7d8c20370d58",
       "m3u8_url": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8"
     }
   ]
