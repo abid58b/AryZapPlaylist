@@ -1,13 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Noakhali Express vs Rajshahi Warriors - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1_1767783136358.webp" group-title="Live",Noakhali Express vs Rajshahi Warriors - Bangladesh Premier League 2025-26
+#EXTINF:-1 tvg-id="Chattogram Royals vs Noakhali Express - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1768390096745.webp" group-title="Live",Chattogram Royals vs Noakhali Express - Bangladesh Premier League 2025-26
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
-#EXTINF:-1 tvg-id="Dhaka Capitals vs Sylhet Titans - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1_1767783216907.webp" group-title="Live",Dhaka Capitals vs Sylhet Titans - Bangladesh Premier League 2025-26
+#EXTINF:-1 tvg-id="INDIA vs USA - ICC U19 Men's Cricket World Cup 2026" tvg-logo="https://images.aryzap.com/big/1280_x_720_1768418881008.webp" group-title="Live",INDIA vs USA - ICC U19 Men's Cricket World Cup 2026
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+#EXTINF:-1 tvg-id="TANZANIA vs WEST INDIES - ICC U19 Men's Cricket World Cup 2026" tvg-logo="https://images.aryzap.com/big/1280_x_720_1768419124049.webp" group-title="Live",TANZANIA vs WEST INDIES - ICC U19 Men's Cricket World Cup 2026
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
+#EXTINF:-1 tvg-id="ZIMBABWE vs SCOTLAND - ICC U19 Men's Cricket World Cup 2026" tvg-logo="https://images.aryzap.com/big/1280_x_720_1768419239223.webp" group-title="Live",ZIMBABWE vs SCOTLAND - ICC U19 Men's Cricket World Cup 2026
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
+#EXTINF:-1 tvg-id="Rajshahi Warriors vs Sylhet Titans - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1768390163791.webp" group-title="Live",Rajshahi Warriors vs Sylhet Titans - Bangladesh Premier League 2025-26
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
-#EXTINF:-1 tvg-id="Rajshahi Warriors vs Chattogram Royals - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1767783921355.webp" group-title="Live",Rajshahi Warriors vs Chattogram Royals - Bangladesh Premier League 2025-26
+#EXTINF:-1 tvg-id="Rangpur Riders vs Dhaka Capitals - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1768390210121.webp" group-title="Live",Rangpur Riders vs Dhaka Capitals - Bangladesh Premier League 2025-26
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
-#EXTINF:-1 tvg-id="Noakhali Express vs Rangpur Riders - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1767783975433.webp" group-title="Live",Noakhali Express vs Rangpur Riders - Bangladesh Premier League 2025-26
+#EXTINF:-1 tvg-id="Chattogram Royals vs Rajshahi Warriors - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1768390267314.webp" group-title="Live",Chattogram Royals vs Rajshahi Warriors - Bangladesh Premier League 2025-26
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Rangpur Riders vs Noakhali Express - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1768390337420.webp" group-title="Live",Rangpur Riders vs Noakhali Express - Bangladesh Premier League 2025-26
+#EXTVLCOPT:http-referrer=https://aryzap.com/
+https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
+#EXTINF:-1 tvg-id="Chattogram Royals vs Dhaka Capitals - Bangladesh Premier League 2025-26" tvg-logo="https://images.aryzap.com/big/1920_x_1080_1768390415802.webp" group-title="Live",Chattogram Royals vs Dhaka Capitals - Bangladesh Premier League 2025-26
 #EXTVLCOPT:http-referrer=https://aryzap.com/
 https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
