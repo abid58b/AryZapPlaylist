@@ -27,7 +27,8 @@
       "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
       "__v": 0
     },
-    "isLive": true
+    "isLive": true,
+    "drmEnabled": false
   },
   {
     "_id": "697a144f3e26a9629dc3d7ba",
@@ -57,7 +58,8 @@
       "tag": "false",
       "__v": 0
     },
-    "isLive": true
+    "isLive": true,
+    "drmEnabled": false
   },
   {
     "_id": "697a14254e01164c33c5a9cb",
@@ -87,7 +89,8 @@
       "tag": "false",
       "__v": 0
     },
-    "isLive": true
+    "isLive": true,
+    "drmEnabled": false
   },
   {
     "_id": "697b3b7a3e26a9629dc90729",
@@ -117,7 +120,8 @@
       "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
       "__v": 0
     },
-    "isLive": true
+    "isLive": true,
+    "drmEnabled": false
   },
   {
     "_id": "697b344e4e01164c33ca99dd",
@@ -147,7 +151,8 @@
       "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
       "__v": 0
     },
-    "isLive": false
+    "isLive": false,
+    "drmEnabled": false
   },
   {
     "_id": "697788894e01164c33bdcddf",
@@ -177,6 +182,7 @@
       "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
       "__v": 0
     },
-    "isLive": false
+    "isLive": false,
+    "drmEnabled": false
   }
 ]
