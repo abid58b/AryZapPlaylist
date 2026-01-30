@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="697a144f3e26a9629dc3d7ba" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1769608605493.webp" group-title="Live",NEW ZEALAND vs ENGLAND - ICC U19 Men's Cricket World Cup 2026
-https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
-
-#EXTINF:-1 tvg-id="697a14254e01164c33c5a9cb" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1769608521560.webp" group-title="Live",AFGHANISTAN vs IRELAND - ICC U19 Men's Cricket World Cup 2026
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
-
 #EXTINF:-1 tvg-id="697cc4a52721fc3f9c625eb3" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1769784476159.webp" group-title="Live",BANGLADESH vs ZIMBABWE - ICC U19 Men's Cricket World Cup 2026
 https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8
 
