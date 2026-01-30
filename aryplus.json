@@ -1,5 +1,35 @@
 [
   {
+    "_id": "697ca0d907c48920c60d31f7",
+    "title": "COURT#6 - APPT CHALLENGER SERIES KARACHI 2026",
+    "seiresCDN": "https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/018ad63d7d761ea540e60408ba9d/main.m3u8",
+    "imagePoster": "poster/280-x-400-1_1769775317451.webp",
+    "imageCoverMobile": "mobile/1280-x-720-2_1769775317941.webp",
+    "imageCoverDesktop": "desktop/1280-x-720-2_1769775318993.webp",
+    "imageCoverBig": "big/1280-x-720-2_1769775320293.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/bc681b885145403714604987555/adp.10.m3u8",
+    "logo": "logo/Logo_1769775319670.webp",
+    "seriesType": "live-event",
+    "position": null,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "00:00:00",
+    "packageIds": [],
+    "genreId": [
+      "Live Event"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "689c9147a71a81e651637b7b",
+      "title": "Top End T20",
+      "type": "Preroll",
+      "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
+      "__v": 0
+    },
+    "isLive": true
+  },
+  {
     "_id": "697a144f3e26a9629dc3d7ba",
     "title": "NEW ZEALAND vs ENGLAND - ICC U19 Men's Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
@@ -60,15 +90,15 @@
     "isLive": true
   },
   {
-    "_id": "697788894e01164c33bdcddf",
-    "title": "West Indies Tour of South Africa T20i Series 2026",
-    "seiresCDN": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8",
-    "imagePoster": "poster/280-x-400_1769441412851.webp",
-    "imageCoverMobile": "mobile/1240-x-1748_1769441413429.webp",
-    "imageCoverDesktop": "desktop/1920-x-1080_1769441414524.webp",
-    "imageCoverBig": "big/1280-x-720_1769441415565.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/6070df415145403696162661416/adp.10.m3u8",
-    "logo": "logo/Logo_1769441415068.webp",
+    "_id": "697b3b7a3e26a9629dc90729",
+    "title": "COURT#3 - APPT CHALLENGER SERIES KARACHI 2026",
+    "seiresCDN": "https://pkmobile.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8",
+    "imagePoster": "poster/280-x-400_1769775335315.webp",
+    "imageCoverMobile": "mobile/1280-x-720-1_1769775336080.webp",
+    "imageCoverDesktop": "desktop/1280-x-720-1_1769775336704.webp",
+    "imageCoverBig": "big/1280-x-720-1_1769775337312.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/bc681b885145403714604987555/adp.10.m3u8",
+    "logo": "logo/Logo_1769683832953.webp",
     "seriesType": "live-event",
     "position": 2,
     "cdnPlatform": "cdn",
@@ -87,7 +117,7 @@
       "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
       "__v": 0
     },
-    "isLive": false
+    "isLive": true
   },
   {
     "_id": "697b344e4e01164c33ca99dd",
@@ -120,15 +150,15 @@
     "isLive": false
   },
   {
-    "_id": "697b3b7a3e26a9629dc90729",
-    "title": "APPT CHALLENGER SERIES KARACHI 2026",
-    "seiresCDN": "https://pkmobile.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8",
-    "imagePoster": "poster/280-x-400_1769683831084.webp",
-    "imageCoverMobile": "mobile/1240-x-1748-2_1769683831755.webp",
-    "imageCoverDesktop": "desktop/1280-x-720_1769683832560.webp",
-    "imageCoverBig": "big/1280-x-720_1769683833610.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/bc681b885145403714604987555/adp.10.m3u8",
-    "logo": "logo/Logo_1769683832953.webp",
+    "_id": "697788894e01164c33bdcddf",
+    "title": "West Indies Tour of South Africa T20i Series 2026",
+    "seiresCDN": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8",
+    "imagePoster": "poster/280-x-400_1769441412851.webp",
+    "imageCoverMobile": "mobile/1240-x-1748_1769441413429.webp",
+    "imageCoverDesktop": "desktop/1920-x-1080_1769441414524.webp",
+    "imageCoverBig": "big/1280-x-720_1769441415565.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/6070df415145403696162661416/adp.10.m3u8",
+    "logo": "logo/Logo_1769441415068.webp",
     "seriesType": "live-event",
     "position": 4,
     "cdnPlatform": "cdn",
