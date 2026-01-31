@@ -62,37 +62,6 @@
     "drmEnabled": false
   },
   {
-    "_id": "697b344e4e01164c33ca99dd",
-    "title": "UAE vs IRELAND T20i Series 2026",
-    "seiresCDN": "https://laligam.aryzap.com/v1/0183ea1d422d0b8ed5aa4d793452/018ad616dcc61ea5578a0267ba85/main.m3u8",
-    "imagePoster": "poster/280-x-400_1769681994667.webp",
-    "imageCoverMobile": "mobile/1240-x-1748_1769681995212.webp",
-    "imageCoverDesktop": "desktop/1920-x-1080_1769681996002.webp",
-    "imageCoverBig": "big/1280-x-720_1769681997121.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/bc681b885145403714604987555/adp.10.m3u8",
-    "logo": "logo/Logo_1769681996721.webp",
-    "seriesType": "live-event",
-    "position": 5,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": "00:00:00",
-    "packageIds": [],
-    "genreId": [
-      "Live Event"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "689c9147a71a81e651637b7b",
-      "title": "Top End T20",
-      "type": "Preroll",
-      "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
-      "__v": 0
-    },
-    "isLive": true,
-    "drmEnabled": false
-  },
-  {
     "_id": "697788894e01164c33bdcddf",
     "title": "West Indies Tour of South Africa T20i Series 2026",
     "seiresCDN": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8",
