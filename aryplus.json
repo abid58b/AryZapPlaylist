@@ -1,36 +1,5 @@
 [
   {
-    "_id": "697cc4e25427ac23c24cf8b6",
-    "title": "PAKISTAN vs INDIA - ICC U19 Men's Cricket World Cup 2026",
-    "seiresCDN": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8",
-    "imagePoster": "poster/280-x-400_1769784541268.webp",
-    "imageCoverMobile": "mobile/1240-x-1748_1769784542143.webp",
-    "imageCoverDesktop": "desktop/1920-x-1080_1769784543428.webp",
-    "imageCoverBig": "big/1920-x-1080_1769784544875.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/99c36e025145403713679041449/adp.10.m3u8",
-    "logo": "logo/ICC-U19-Logo_1769784544078.webp",
-    "seriesType": "live-event",
-    "position": 0,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": "00:00:00",
-    "packageIds": [],
-    "genreId": [
-      "Live Event"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "675cb55c4a99a01965f1c502",
-      "title": "false",
-      "type": "false",
-      "tag": "false",
-      "__v": 0
-    },
-    "isLive": true,
-    "drmEnabled": false
-  },
-  {
     "_id": "697ca0d907c48920c60d31f7",
     "title": "COURT#6 - APPT CHALLENGER SERIES KARACHI 2026",
     "seiresCDN": "https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/018ad63d7d761ea540e60408ba9d/main.m3u8",
