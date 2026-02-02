@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="697ca0d907c48920c60d31f7" tvg-logo="https://images.aryplus.tv/poster/280-x-400-1_1769775317451.webp" group-title="Live",COURT#6 - APPT CHALLENGER SERIES KARACHI 2026
-https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/018ad63d7d761ea540e60408ba9d/main.m3u8
-
-#EXTINF:-1 tvg-id="697b3b7a3e26a9629dc90729" tvg-logo="https://images.aryplus.tv/poster/280-x-400_1769775335315.webp" group-title="Live",COURT#3 - APPT CHALLENGER SERIES KARACHI 2026
-https://pkmobile.aryzap.com/v1/0183ea09ff690b8ed5aa4d793447/018ad640b8621ea50695040da298/main.m3u8
-
 #EXTINF:-1 tvg-id="697f4b9c5427ac23c25cf6c1" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1769950987000.webp" group-title="Live",AFGHANISTAN vs SCOTLAND - WARMUP MATCH - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
 
