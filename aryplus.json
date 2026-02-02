@@ -31,37 +31,6 @@
     "drmEnabled": false
   },
   {
-    "_id": "697f4e1e2721fc3f9c729716",
-    "title": "CANADA vs ITALY - WARMUP MATCH - ICC Men's T20 Cricket World Cup 2026",
-    "seiresCDN": "https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8",
-    "imagePoster": "poster/280_x_400_1769950745572.webp",
-    "imageCoverMobile": "mobile/1240_x_1748_1769950746214.webp",
-    "imageCoverDesktop": "desktop/1920_x_1080_1769950747701.webp",
-    "imageCoverBig": "big/1280_x_720_1769950749040.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
-    "logo": "logo/ICC_MENS_T20_LOGO_1769950748470.webp",
-    "seriesType": "live-event",
-    "position": 0,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": "00:00:00",
-    "packageIds": [],
-    "genreId": [
-      "Live Event"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "675cb55c4a99a01965f1c502",
-      "title": "false",
-      "type": "false",
-      "tag": "false",
-      "__v": 0
-    },
-    "isLive": true,
-    "drmEnabled": false
-  },
-  {
     "_id": "698082cbf3d4515a0048d3d6",
     "title": "SEMI FINAL - AUSTRALIA vs ENGLAND - ICC U19 Men's Cricket World Cup 2026",
     "seiresCDN": "https://fifam.aryzap.com/v1/0183ea164f0a0b8ed5941a38bc67/018ad63817721ea5578a0267bac7/main.m3u8",
@@ -89,7 +58,7 @@
       "tag": "false",
       "__v": 0
     },
-    "isLive": false,
+    "isLive": true,
     "drmEnabled": false
   },
   {
@@ -120,7 +89,7 @@
       "tag": "false",
       "__v": 0
     },
-    "isLive": false,
+    "isLive": true,
     "drmEnabled": false
   },
   {
