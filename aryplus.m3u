@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6985f14182d6ec2e3fd30a34" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770385722695.webp" group-title="Live",INDIA vs USA  - ICC Men's T20 Cricket World Cup 2026
-https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
-
 #EXTINF:-1 tvg-id="6985f184c0867c714c336500" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770385791077.webp" group-title="Live",NEW ZEALAND vs AFGHANISTAN  - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
 
