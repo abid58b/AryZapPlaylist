@@ -1,37 +1,5 @@
 [
   {
-    "_id": "6985f25d82d6ec2e3fd31390",
-    "title": "SCOTLAND vs ITALY  - ICC Men's T20 Cricket World Cup 2026",
-    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
-    "imagePoster": "poster/280_x_400_1770386006533.webp",
-    "imageCoverMobile": "mobile/1240_x_1748_1770386008147.webp",
-    "imageCoverDesktop": "desktop/1920_x_1080_1770386010073.webp",
-    "imageCoverBig": "big/1280_x_720_1770386011875.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
-    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1770386010908.webp",
-    "seriesType": "live-event",
-    "position": 7,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": "00:00:00",
-    "packageIds": [],
-    "genreId": [
-      "Live Event",
-      "Live Sports"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "675cb55c4a99a01965f1c502",
-      "title": "false",
-      "type": "false",
-      "tag": "false",
-      "__v": 0
-    },
-    "isLive": true,
-    "drmEnabled": true
-  },
-  {
     "_id": "6985f29da09e8e5b705951fa",
     "title": "SCOTLAND vs ITALY  - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
