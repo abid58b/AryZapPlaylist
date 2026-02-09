@@ -1,5 +1,37 @@
 [
   {
+    "_id": "6989d5db28e7752037c646f5",
+    "title": "Multan Sultan's Team Auction 2026",
+    "seiresCDN": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8",
+    "imagePoster": "poster/280_x_400_1770640856709.webp",
+    "imageCoverMobile": "mobile/Mob-Cover-1240x1748-Without-Logo_1770640857269.webp",
+    "imageCoverDesktop": "desktop/Desktop-Cover-1920x1080-Without-Logo_1770640857833.webp",
+    "imageCoverBig": "big/Big-Cover-1280x720-With-Logo_1770640858762.webp",
+    "trailer": "",
+    "logo": "logo/Logo_1770640858433.webp",
+    "seriesType": "live-event",
+    "position": null,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "00:00:00",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": true,
+    "drmEnabled": false
+  },
+  {
     "_id": "6985f29da09e8e5b705951fa",
     "title": "SCOTLAND vs ITALY  - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
@@ -16,8 +48,8 @@
     "duration": "00:00:00",
     "packageIds": [],
     "genreId": [
-      "Live Sports",
-      "Live Event"
+      "Live Event",
+      "Live Sports"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -48,8 +80,8 @@
     "duration": "00:00:00",
     "packageIds": [],
     "genreId": [
-      "Live Sports",
-      "Live Event"
+      "Live Event",
+      "Live Sports"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -60,7 +92,7 @@
       "tag": "false",
       "__v": 0
     },
-    "isLive": false,
+    "isLive": true,
     "drmEnabled": true
   },
   {
@@ -80,8 +112,8 @@
     "duration": "00:00:00",
     "packageIds": [],
     "genreId": [
-      "Live Sports",
-      "Live Event"
+      "Live Event",
+      "Live Sports"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -112,8 +144,8 @@
     "duration": "00:00:00",
     "packageIds": [],
     "genreId": [
-      "Live Sports",
-      "Live Event"
+      "Live Event",
+      "Live Sports"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -144,8 +176,8 @@
     "duration": "00:00:00",
     "packageIds": [],
     "genreId": [
-      "Live Sports",
-      "Live Event"
+      "Live Event",
+      "Live Sports"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
