@@ -10,14 +10,14 @@
     "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
     "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1770387137799.webp",
     "seriesType": "live-event",
-    "position": 1,
+    "position": 0,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
     "duration": "00:00:00",
     "packageIds": [],
     "genreId": [
-      "Live Event",
-      "Live Sports"
+      "Live Sports",
+      "Live Event"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -42,14 +42,14 @@
     "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
     "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1770391129440.webp",
     "seriesType": "live-event",
-    "position": 2,
+    "position": 1,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
     "duration": "00:00:00",
     "packageIds": [],
     "genreId": [
-      "Live Event",
-      "Live Sports"
+      "Live Sports",
+      "Live Event"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -62,6 +62,38 @@
     },
     "isLive": false,
     "drmEnabled": true
+  },
+  {
+    "_id": "698b1e9828e7752037d6544b",
+    "title": "Pakistan Women tour of South Africa T20i Series, 2026",
+    "seiresCDN": "https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8",
+    "imagePoster": "poster/Poster-Image-280x400-With-Logo.jpg_1770725012568.webp",
+    "imageCoverMobile": "mobile/Big-Cover-1280x720-With-Logo.jpg_1770725013258.webp",
+    "imageCoverDesktop": "desktop/Big-Cover-1280x720-With-Logo.jpg_1770725014163.webp",
+    "imageCoverBig": "big/Big-Cover-1280x720-With-Logo.jpg_1770725015379.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/6070df415145403696162661416/adp.10.m3u8",
+    "logo": "logo/Logo__4__1770725014760.webp",
+    "seriesType": "live-event",
+    "position": 2,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "00:00:00",
+    "packageIds": [],
+    "genreId": [
+      "Live Sports",
+      "Live Event"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "689c9147a71a81e651637b7b",
+      "title": "Top End T20",
+      "type": "Preroll",
+      "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": false
   },
   {
     "_id": "698a0db18914ec47711a8c9f",
@@ -80,8 +112,8 @@
     "duration": "",
     "packageIds": [],
     "genreId": [
-      "Live Event",
-      "Live Sports"
+      "Live Sports",
+      "Live Event"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -112,8 +144,8 @@
     "duration": "",
     "packageIds": [],
     "genreId": [
-      "Live Event",
-      "Live Sports"
+      "Live Sports",
+      "Live Event"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
@@ -144,8 +176,8 @@
     "duration": "",
     "packageIds": [],
     "genreId": [
-      "Live Event",
-      "Live Sports"
+      "Live Sports",
+      "Live Event"
     ],
     "ageRating": "13+",
     "episodeCount": 0,
