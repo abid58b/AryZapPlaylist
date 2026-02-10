@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6985f64782d6ec2e3fd34ce6" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770387011901.webp" group-title="Live",NETHERLANDS vs NAMIBIA - ICC Men's T20 Cricket World Cup 2026
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
-
 #EXTINF:-1 tvg-id="6985f6c482d6ec2e3fd35272" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770387134828.webp" group-title="Live",NEW ZEALAND vs UAE - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
 
