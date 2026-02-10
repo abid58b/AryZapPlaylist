@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="698b42ff687034dd173f2c0c" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770734325404.webp" group-title="Live",OMAN vs SRI LANKA - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+
 #EXTINF:-1 tvg-id="6986065bc0867c714c346a2f" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770391126514.webp" group-title="Live",PAKISTAN vs USA - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
 
