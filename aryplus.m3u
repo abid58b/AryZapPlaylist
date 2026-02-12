@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="698b460c28e7752037e1fd7f" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770735108890.webp" group-title="Live",INDIA vs NAMIBIA - ICC Men's T20 Cricket World Cup 2026
-https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
-
 #EXTINF:-1 tvg-id="698b1e9828e7752037d6544b" tvg-logo="https://images.aryplus.tv/poster/Poster-Image-280x400-With-Logo.jpg_1770725012568.webp" group-title="Live",Pakistan Women tour of South Africa T20i Series, 2026
 https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
 
