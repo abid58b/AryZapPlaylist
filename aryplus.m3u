@@ -1,29 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="698f598c691cc27eab325593" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771002249086.webp" group-title="Live",Afghanistan vs UAE - ICC Men's T20 Cricket World Cup 2026
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
-
-#EXTINF:-1 tvg-id="698f59f432a237b2a3b42037" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771002353284.webp" group-title="Live",England vs Italy - ICC Men's T20 Cricket World Cup 2026
-https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
-
 #EXTINF:-1 tvg-id="698b1e9828e7752037d6544b" tvg-logo="https://images.aryplus.tv/poster/Poster-Image-280x400-With-Logo.jpg_1770725012568.webp" group-title="Live",Pakistan Women tour of South Africa T20i Series, 2026
 https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
 
-#EXTINF:-1 tvg-id="698f5392691cc27eab320eac" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771000718869.webp" group-title="Live",Ireland vs Oman - ICC Men's T20 Cricket World Cup 2026
+#EXTINF:-1 tvg-id="698f5392691cc27eab320eac" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771000718869.webp" group-title="Live",IRELAND vs OMAN - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
 
-#EXTINF:-1 tvg-id="698f541b32a237b2a3b3de25" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001043142.webp" group-title="Live",England vs Scotland - ICC Men's T20 Cricket World Cup 2026
+#EXTINF:-1 tvg-id="698f541b32a237b2a3b3de25" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001043142.webp" group-title="Live",ENGLAND vs SCOTLAND - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
 
-#EXTINF:-1 tvg-id="698f568532a237b2a3b3fe25" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001474425.webp" group-title="Live",New Zealand vs South Africa - ICC Men's T20 Cricket World Cup 2026
+#EXTINF:-1 tvg-id="698f568532a237b2a3b3fe25" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001474425.webp" group-title="Live",NEW ZEALAND vs SOUTH AFRICA - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
 
-#EXTINF:-1 tvg-id="698f57309af4014c465a683d" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001645085.webp" group-title="Live",West Indies vs Nepal - ICC Men's T20 Cricket World Cup 2026
+#EXTINF:-1 tvg-id="698f57309af4014c465a683d" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001645085.webp" group-title="Live",WEST INDIES vs NEPAL - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
 
-#EXTINF:-1 tvg-id="698f57839af4014c465a6b6e" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001728419.webp" group-title="Live",USA vs Namibia - ICC Men's T20 Cricket World Cup 2026
+#EXTINF:-1 tvg-id="698f57839af4014c465a6b6e" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001728419.webp" group-title="Live",USA vs NAMIBIA - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
 
-#EXTINF:-1 tvg-id="698f57d79af4014c465a6f06" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001811168.webp" group-title="Live",Pakistan vs India - ICC Men's T20 Cricket World Cup 2026
+#EXTINF:-1 tvg-id="698f57d79af4014c465a6f06" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771001811168.webp" group-title="Live",PAKISTAN vs INDIA - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
+
+#EXTINF:-1 tvg-id="698f598c691cc27eab325593" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771002249086.webp" group-title="Live",AFGHANISTAN vs UAE - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+
+#EXTINF:-1 tvg-id="698f59f432a237b2a3b42037" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771002353284.webp" group-title="Live",ENGLAND vs ITALY - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
+
+#EXTINF:-1 tvg-id="698f5a5b9af4014c465a8816" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771002456334.webp" group-title="Live",AUSTRALIA vs SRI LANKA - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
+
+#EXTINF:-1 tvg-id="698f5ab09af4014c465a8b44" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771002541751.webp" group-title="Live",CANADA vs NEW ZEALAND - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+
+#EXTINF:-1 tvg-id="698f5b159af4014c465a8e84" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771003049443.webp" group-title="Live",ZIMBABWE vs IRELAND - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
+
+#EXTINF:-1 tvg-id="698f5d1b32a237b2a3b43bdf" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771003160900.webp" group-title="Live",NEPAL vs SCOTLAND - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
+
+#EXTINF:-1 tvg-id="698f6236691cc27eab329cf5" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771004463375.webp" group-title="Live",SOUTH AFRICA vs UAE - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
+
+#EXTINF:-1 tvg-id="698f62ad32a237b2a3b46a35" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771004585454.webp" group-title="Live",PAKISTAN vs NAMIBIA - ICC Men's T20 Cricket World Cup 2026
+https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
+
+#EXTINF:-1 tvg-id="698f6571691cc27eab32bb50" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771005293807.webp" group-title="Live",INDIA vs NETHERLANDS - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
 

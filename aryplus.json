@@ -1,69 +1,5 @@
 [
   {
-    "_id": "698f598c691cc27eab325593",
-    "title": "Afghanistan vs UAE - ICC Men's T20 Cricket World Cup 2026",
-    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
-    "imagePoster": "poster/280_x_400_1771002249086.webp",
-    "imageCoverMobile": "mobile/1240_x_1748_1771002249981.webp",
-    "imageCoverDesktop": "desktop/1920_x_1080_1771002250708.webp",
-    "imageCoverBig": "big/1280_x_720_1771002251739.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
-    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771002251350.webp",
-    "seriesType": "live-event",
-    "position": null,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": null,
-    "packageIds": [],
-    "genreId": [
-      "Live Event",
-      "Live Sports"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "675cb55c4a99a01965f1c502",
-      "title": "false",
-      "type": "false",
-      "tag": "false",
-      "__v": 0
-    },
-    "isLive": false,
-    "drmEnabled": false
-  },
-  {
-    "_id": "698f59f432a237b2a3b42037",
-    "title": "England vs Italy - ICC Men's T20 Cricket World Cup 2026",
-    "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
-    "imagePoster": "poster/280_x_400_1771002353284.webp",
-    "imageCoverMobile": "mobile/1240_x_1748_1771002353929.webp",
-    "imageCoverDesktop": "desktop/1920_x_1080_1771002354576.webp",
-    "imageCoverBig": "big/1280_x_720_1771002355749.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
-    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771002355252.webp",
-    "seriesType": "live-event",
-    "position": null,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": null,
-    "packageIds": [],
-    "genreId": [
-      "Live Event",
-      "Live Sports"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "675cb55c4a99a01965f1c502",
-      "title": "false",
-      "type": "false",
-      "tag": "false",
-      "__v": 0
-    },
-    "isLive": false,
-    "drmEnabled": false
-  },
-  {
     "_id": "698b1e9828e7752037d6544b",
     "title": "Pakistan Women tour of South Africa T20i Series, 2026",
     "seiresCDN": "https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8",
@@ -97,7 +33,7 @@
   },
   {
     "_id": "698f5392691cc27eab320eac",
-    "title": "Ireland vs Oman - ICC Men's T20 Cricket World Cup 2026",
+    "title": "IRELAND vs OMAN - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
     "imagePoster": "poster/280_x_400_1771000718869.webp",
     "imageCoverMobile": "mobile/1240_x_1748_1771000719452.webp",
@@ -125,11 +61,11 @@
       "__v": 0
     },
     "isLive": false,
-    "drmEnabled": false
+    "drmEnabled": true
   },
   {
     "_id": "698f541b32a237b2a3b3de25",
-    "title": "England vs Scotland - ICC Men's T20 Cricket World Cup 2026",
+    "title": "ENGLAND vs SCOTLAND - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
     "imagePoster": "poster/280_x_400_1771001043142.webp",
     "imageCoverMobile": "mobile/1240_x_1748_1771001043786.webp",
@@ -157,11 +93,11 @@
       "__v": 0
     },
     "isLive": false,
-    "drmEnabled": false
+    "drmEnabled": true
   },
   {
     "_id": "698f568532a237b2a3b3fe25",
-    "title": "New Zealand vs South Africa - ICC Men's T20 Cricket World Cup 2026",
+    "title": "NEW ZEALAND vs SOUTH AFRICA - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8",
     "imagePoster": "poster/280_x_400_1771001474425.webp",
     "imageCoverMobile": "mobile/1240_x_1748_1771001475314.webp",
@@ -173,7 +109,7 @@
     "position": 3,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
-    "duration": null,
+    "duration": "",
     "packageIds": [],
     "genreId": [
       "Live Event",
@@ -189,11 +125,11 @@
       "__v": 0
     },
     "isLive": false,
-    "drmEnabled": false
+    "drmEnabled": true
   },
   {
     "_id": "698f57309af4014c465a683d",
-    "title": "West Indies vs Nepal - ICC Men's T20 Cricket World Cup 2026",
+    "title": "WEST INDIES vs NEPAL - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
     "imagePoster": "poster/280_x_400_1771001645085.webp",
     "imageCoverMobile": "mobile/1240_x_1748_1771001645499.webp",
@@ -205,7 +141,7 @@
     "position": 4,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
-    "duration": null,
+    "duration": "",
     "packageIds": [],
     "genreId": [
       "Live Event",
@@ -221,11 +157,11 @@
       "__v": 0
     },
     "isLive": false,
-    "drmEnabled": false
+    "drmEnabled": true
   },
   {
     "_id": "698f57839af4014c465a6b6e",
-    "title": "USA vs Namibia - ICC Men's T20 Cricket World Cup 2026",
+    "title": "USA vs NAMIBIA - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
     "imagePoster": "poster/280_x_400_1771001728419.webp",
     "imageCoverMobile": "mobile/1240_x_1748_1771001728979.webp",
@@ -237,7 +173,7 @@
     "position": 5,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
-    "duration": null,
+    "duration": "",
     "packageIds": [],
     "genreId": [
       "Live Event",
@@ -257,7 +193,7 @@
   },
   {
     "_id": "698f57d79af4014c465a6f06",
-    "title": "Pakistan vs India - ICC Men's T20 Cricket World Cup 2026",
+    "title": "PAKISTAN vs INDIA - ICC Men's T20 Cricket World Cup 2026",
     "seiresCDN": "https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8",
     "imagePoster": "poster/280_x_400_1771001811168.webp",
     "imageCoverMobile": "mobile/1240_x_1748_1771001811755.webp",
@@ -267,6 +203,262 @@
     "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771001813716.webp",
     "seriesType": "live-event",
     "position": 6,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": false
+  },
+  {
+    "_id": "698f598c691cc27eab325593",
+    "title": "AFGHANISTAN vs UAE - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771002249086.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771002249981.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771002250708.webp",
+    "imageCoverBig": "big/1280_x_720_1771002251739.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771002251350.webp",
+    "seriesType": "live-event",
+    "position": 7,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f59f432a237b2a3b42037",
+    "title": "ENGLAND vs ITALY - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771002353284.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771002353929.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771002354576.webp",
+    "imageCoverBig": "big/1280_x_720_1771002355749.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771002355252.webp",
+    "seriesType": "live-event",
+    "position": 8,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f5a5b9af4014c465a8816",
+    "title": "AUSTRALIA vs SRI LANKA - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771002456334.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771002456906.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771002457687.webp",
+    "imageCoverBig": "big/1280_x_720_1771002458713.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771002458355.webp",
+    "seriesType": "live-event",
+    "position": 9,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f5ab09af4014c465a8b44",
+    "title": "CANADA vs NEW ZEALAND - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771002541751.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771002542190.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771002543005.webp",
+    "imageCoverBig": "big/1280_x_720_1771002543852.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771002543498.webp",
+    "seriesType": "live-event",
+    "position": 10,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f5b159af4014c465a8e84",
+    "title": "ZIMBABWE vs IRELAND - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771003049443.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771003050130.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771003050817.webp",
+    "imageCoverBig": "big/1280_x_720_1771003051394.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771002643881.webp",
+    "seriesType": "live-event",
+    "position": 11,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f5d1b32a237b2a3b43bdf",
+    "title": "NEPAL vs SCOTLAND - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771003160900.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771003161349.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771003162026.webp",
+    "imageCoverBig": "big/1280_x_720_1771003162860.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771003162512.webp",
+    "seriesType": "live-event",
+    "position": 12,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f6236691cc27eab329cf5",
+    "title": "SOUTH AFRICA vs UAE - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771004463375.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771004464912.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771004466467.webp",
+    "imageCoverBig": "big/1280_x_720_1771004468338.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771004467273.webp",
+    "seriesType": "live-event",
+    "position": 13,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "",
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f62ad32a237b2a3b46a35",
+    "title": "PAKISTAN vs NAMIBIA - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771004585454.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771004586383.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771004587164.webp",
+    "imageCoverBig": "big/1280_x_720_1771004588378.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771004587930.webp",
+    "seriesType": "live-event",
+    "position": 14,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
     "duration": null,
@@ -285,6 +477,38 @@
       "__v": 0
     },
     "isLive": false,
-    "drmEnabled": false
+    "drmEnabled": true
+  },
+  {
+    "_id": "698f6571691cc27eab32bb50",
+    "title": "INDIA vs NETHERLANDS - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771005293807.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771005294507.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771005295189.webp",
+    "imageCoverBig": "big/1280_x_720_1771005296181.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771005295829.webp",
+    "seriesType": "live-event",
+    "position": 15,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
   }
 ]
