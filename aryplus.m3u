@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="698b48ce8914ec477130b7f0" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770735816463.webp" group-title="Live",CANADA vs UAE - ICC Men's T20 Cricket World Cup 2026
-https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8
-
 #EXTINF:-1 tvg-id="698b4a25687034dd1741896b" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1770736311153.webp" group-title="Live",USA vs NETHERLANDS - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile3.aryzap.com/v1/01875b6e4bbb1ea5578a0463011a/018ad63fcbd609831f17036fbae6/main.m3u8
 
