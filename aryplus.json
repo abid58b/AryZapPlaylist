@@ -60,8 +60,8 @@
       "tag": "false",
       "__v": 0
     },
-    "isLive": false,
-    "drmEnabled": false
+    "isLive": true,
+    "drmEnabled": true
   },
   {
     "_id": "698f57d79af4014c465a6f06",
