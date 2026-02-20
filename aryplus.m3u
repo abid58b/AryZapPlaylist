@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="698f6bfd9af4014c465b2b43" tvg-logo="https://images.aryplus.tv/poster/280_x_400_1771420662365.webp" group-title="Live",AUSTRALIA vs OMAN - ICC Men's T20 Cricket World Cup 2026
-https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
-
 #EXTINF:-1 tvg-id="699810695db2e4b41ca908be" tvg-logo="https://images.aryplus.tv/poster/280-x-400_1771587646565.webp" group-title="Live",PAKISTAN vs NEW ZEALAND - ICC Men's T20 Cricket World Cup 2026
 https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8
 
