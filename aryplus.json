@@ -1,37 +1,5 @@
 [
   {
-    "_id": "699810695db2e4b41ca908be",
-    "title": "PAKISTAN vs NEW ZEALAND - ICC Men's T20 Cricket World Cup 2026",
-    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
-    "imagePoster": "poster/280-x-400_1771587646565.webp",
-    "imageCoverMobile": "mobile/1240-x-1748_1771587647150.webp",
-    "imageCoverDesktop": "desktop/1920-x-1080_1771587647797.webp",
-    "imageCoverBig": "big/1280-x-720_1771587648346.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
-    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771573348518.webp",
-    "seriesType": "live-event",
-    "position": 0,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": "",
-    "packageIds": [],
-    "genreId": [
-      "Live Event",
-      "Live Sports"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "675cb55c4a99a01965f1c502",
-      "title": "false",
-      "type": "false",
-      "tag": "false",
-      "__v": 0
-    },
-    "isLive": true,
-    "drmEnabled": true
-  },
-  {
     "_id": "698b1e9828e7752037d6544b",
     "title": "Pakistan Women tour of South Africa ODi Series, 2026",
     "seiresCDN": "https://nickm.aryzap.com/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8",
