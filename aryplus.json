@@ -94,5 +94,229 @@
     },
     "isLive": false,
     "drmEnabled": false
+  },
+  {
+    "_id": "699c696957205e45aee1aaf4",
+    "title": "SRI LANKA vs NEW ZEALAND - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771858260475.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771858261187.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771858262430.webp",
+    "imageCoverBig": "big/1280_x_720_1771858266802.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771858263271.webp",
+    "seriesType": "live-event",
+    "position": 3,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "699c69c55db2e4b41c678e62",
+    "title": "WEST INDIES vs SOUTH AFRICA - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771858368378.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771858368948.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771858370231.webp",
+    "imageCoverBig": "big/1280_x_720_1771858371671.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771858371318.webp",
+    "seriesType": "live-event",
+    "position": 4,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "699c6a2457205e45aee1f160",
+    "title": "INDIA vs ZIMBABWE - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771858464146.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771858464550.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771858465913.webp",
+    "imageCoverBig": "big/1280_x_720_1771858467253.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771858466806.webp",
+    "seriesType": "live-event",
+    "position": 5,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "699c6a9a57205e45aee21d85",
+    "title": "ENGLAND vs NEW ZEALAND - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771858582617.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771858583276.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771858584273.webp",
+    "imageCoverBig": "big/1280_x_720_1771858585373.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771858585018.webp",
+    "seriesType": "live-event",
+    "position": 6,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "699c6adb5db2e4b41c67f09f",
+    "title": "PAKISTAN vs SRI LANKA - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771858642810.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771858643659.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771858644566.webp",
+    "imageCoverBig": "big/1280_x_720_1771858648478.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771858647091.webp",
+    "seriesType": "live-event",
+    "position": 7,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "699c6b1157205e45aee24076",
+    "title": "ZIMBABWE vs SOUTH AFRICA - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771858699776.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771858700219.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771858701513.webp",
+    "imageCoverBig": "big/1280_x_720_1771858703638.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771858702438.webp",
+    "seriesType": "live-event",
+    "position": 8,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
+  },
+  {
+    "_id": "699c6b6578d2da1f415f72c8",
+    "title": "INDIA vs WEST INDIES - ICC Men's T20 Cricket World Cup 2026",
+    "seiresCDN": "https://iccmobile2.aryzap.com/v1/0185aab95ed71ea5578a03c0bfd8/018ad63f3e5b1eb401a6035dc5e1/main.m3u8",
+    "imagePoster": "poster/280_x_400_1771858780998.webp",
+    "imageCoverMobile": "mobile/1240_x_1748_1771858782393.webp",
+    "imageCoverDesktop": "desktop/1920_x_1080_1771858783408.webp",
+    "imageCoverBig": "big/1280_x_720_1771858786468.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
+    "logo": "logo/ICC_MENS_T20_LOGO_1769950106585_1771858785890.webp",
+    "seriesType": "live-event",
+    "position": 9,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": null,
+    "packageIds": [],
+    "genreId": [
+      "Live Event",
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "675cb55c4a99a01965f1c502",
+      "title": "false",
+      "type": "false",
+      "tag": "false",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": true
   }
 ]
