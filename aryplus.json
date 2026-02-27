@@ -13,7 +13,7 @@
     "position": 1,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
-    "duration": null,
+    "duration": "",
     "packageIds": [],
     "genreId": [
       "Live Event",
