@@ -77,7 +77,7 @@
     "position": 5,
     "cdnPlatform": "cdn",
     "seriesLayout": "v1",
-    "duration": null,
+    "duration": "",
     "packageIds": [],
     "genreId": [
       "Live Event",
@@ -92,7 +92,7 @@
       "tag": "false",
       "__v": 0
     },
-    "isLive": false,
+    "isLive": true,
     "drmEnabled": true
   }
 ]
