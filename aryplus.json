@@ -8,7 +8,7 @@
     "imageCoverDesktop": "desktop/1920_x_1080_1_1772801211353.webp",
     "imageCoverBig": "big/1280_x_720_1_1772801212166.webp",
     "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
-    "logo": "logo/Logo_1772903123369.webp",
+    "logo": "logo/Logo-3_1772904435644.webp",
     "seriesType": "live-event",
     "position": null,
     "cdnPlatform": "cdn",
@@ -30,5 +30,36 @@
     },
     "isLive": false,
     "drmEnabled": true
+  },
+  {
+    "_id": "69ac5f998aeee4bdb9ddba04",
+    "title": "PREMIER PADEL LEAGUE 2026",
+    "seiresCDN": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8",
+    "imagePoster": "poster/280x400_1772904338681.webp",
+    "imageCoverMobile": "mobile/1240x1748_1772904340379.webp",
+    "imageCoverDesktop": "desktop/1280x720_1772904341991.webp",
+    "imageCoverBig": "big/1280x720_1772904343851.webp",
+    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/6070df415145403696162661416/adp.10.m3u8",
+    "logo": "logo/Logo__5__1772904342921.webp",
+    "seriesType": "live-event",
+    "position": null,
+    "cdnPlatform": "cdn",
+    "seriesLayout": "v1",
+    "duration": "00:00:00",
+    "packageIds": [],
+    "genreId": [
+      "Live Sports"
+    ],
+    "ageRating": "13+",
+    "episodeCount": 0,
+    "adsManager": {
+      "_id": "689c9147a71a81e651637b7b",
+      "title": "Top End T20",
+      "type": "Preroll",
+      "tag": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/67551462/A-Sports-PR&description_url=https%3A%2F%2Faryzap.com&tfcd=0&npa=0&sz=320x180%7C375x210%7C640x360%7C640x480%7C854x480%7C1280x720&min_ad_duration=10000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear",
+      "__v": 0
+    },
+    "isLive": false,
+    "drmEnabled": false
   }
 ]
