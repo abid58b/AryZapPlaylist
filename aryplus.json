@@ -1,37 +1,5 @@
 [
   {
-    "_id": "69aaccbcb26bd9632961b86b",
-    "title": "FINAL: NEW ZEALAND vs INDIA -ICC Men's T20 Cricket World Cup 2026",
-    "seiresCDN": "https://iccmobile.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/018ad63e762d1ea540e60408ba9e/main.m3u8",
-    "imagePoster": "poster/280_x_400_1_1772801209999.webp",
-    "imageCoverMobile": "mobile/1240_x_1748_1_1772801210608.webp",
-    "imageCoverDesktop": "desktop/1920_x_1080_1772905789977.webp",
-    "imageCoverBig": "big/1280_x_720_1_1772801212166.webp",
-    "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/070bbdbd5145403714113356775/adp.10.m3u8",
-    "logo": "logo/LOGO-FINAL-LIVE-NOW_1772980454303.webp",
-    "seriesType": "live-event",
-    "position": null,
-    "cdnPlatform": "cdn",
-    "seriesLayout": "v1",
-    "duration": "",
-    "packageIds": [],
-    "genreId": [
-      "Live Event",
-      "Live Sports"
-    ],
-    "ageRating": "13+",
-    "episodeCount": 0,
-    "adsManager": {
-      "_id": "675cb55c4a99a01965f1c502",
-      "title": "false",
-      "type": "false",
-      "tag": "false",
-      "__v": 0
-    },
-    "isLive": true,
-    "drmEnabled": true
-  },
-  {
     "_id": "69ac5f998aeee4bdb9ddba04",
     "title": "GRAND FINALE: PREMIER PADEL LEAGUE 2026",
     "seiresCDN": "https://stream.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8",
